@@ -61,7 +61,7 @@ html body {
 	<!-- Don't touch. Bad -->
 	
 		<form action="index.php" method="post" style="margin-bottom:0;">
-			<input name="url" type="text" style="width:1300px;" autocomplete="off" placeholder="http://" />
+			<input name="url" type="text" style="width:1000px;" autocomplete="off" placeholder="http://" />
 			<input type="submit" value="Go" />
 		</form>
 		
