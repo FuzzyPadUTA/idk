@@ -7,10 +7,9 @@
 <body style="background-color:black;">
 <title>My Drive - Google Drive</title>
 
-<meta property="og:title" content="Titanium Network">
+<meta property="og:title" content="FZPX">
 <meta property="og:site_name" content="Proxy">
-<meta property="og:url" content="https://i29u2983298.ml/">
-<meta property="og:description" content="Official proxy of the Titanium Network!">
+<meta property="og:description" content="F Z P X">
 <meta property="og:type" content="website">
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="5.1.0">
