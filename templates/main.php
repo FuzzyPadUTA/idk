@@ -1,19 +1,12 @@
 
-<html>
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="icon" href="https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico">
 <body style="background-color:black;">
-<title>My Drive - Google Drive</title>
-
-<meta property="og:title" content="FZPX">
-<meta property="og:site_name" content="Proxy">
-<meta property="og:description" content="F Z P X">
-<meta property="og:type" content="website">
+<title>My Drive-Google Drive</title>
+</script><link rel="icon" href="//ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico">
 <meta name="generator" content="php-proxy.com">
-<meta name="version" content="5.1.0">
-<meta name="robots" content="noindex">
+<meta name="version" content="5.0.1">
 
 <style type="text/css">
 html body {
@@ -34,9 +27,9 @@ html body {
 
 #frm {
 	padding:10px 15px;
-	background-color:#1f1f14;
+	background-color:#FFC8C8;
 	
-	border:1px solid #6600ff;
+	border:1px solid #818181;
 	
 	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
@@ -49,44 +42,17 @@ html body {
 	margin-top:35px;
 	clear:both;
 }
-
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-}
-
-.topnav a {
-  float: left;
-  color: #000000;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #000000;
-  color: white;
-}
 </style>
 
 </head>
+
 <body>
+
 
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:Red;">F Z P X</h1>
+		<h1 style="color:red;">F Z P X</h1>
 	</div>
 	
 		
@@ -108,9 +74,5 @@ body {
 	</div>
 	
 </div>
-	<div style="text-align:center;">
-		<h2 style="color:red;">Have fun and good luck</h2>
-	</div>
-
 </body>
 </html>
