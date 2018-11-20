@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-<body style="background-color:black;">
-<title>My Drive-Google Drive</title>
-</script><link rel="icon" href="//ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico">
+
+<title>PHP-Proxy</title>
+
 <meta name="generator" content="php-proxy.com">
-<meta name="version" content="5.0.1">
+<meta name="version" content="<?=$version;?>">
 
 <style type="text/css">
 html body {
@@ -52,10 +51,17 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:red;">F Z P X</h1>
+		<h1 style="color:blue;">PHP-Proxy</h1>
 	</div>
 	
-		
+	<?php if(isset($error_msg)){ ?>
+	
+	<div id="error">
+		<p><?php echo $error_msg; ?></p>
+	</div>
+	
+	<?php } ?>
+	
 	<div id="frm">
 	
 	<!-- I wouldn't touch this part -->
@@ -74,5 +80,11 @@ html body {
 	</div>
 	
 </div>
+
+<div id="footer">
+	Powered by <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
+</div>
+
+
 </body>
 </html>
